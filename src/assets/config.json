@@ -1,0 +1,367 @@
+{
+    "newComponent": [
+        {
+            "id": 1,
+            "name": "Configure Component",
+            "enabled": true,
+            "category": [
+                {
+                    "id": 101,
+                    "name": "Component Details",
+                    "enabled": true,
+                    "subcategory": [
+                        {
+                            "id": 1011,
+                            "name": "ID",
+                            "enabled": true,
+                            "items": []
+                        },
+                        {
+                            "id": 1012,
+                            "name": "Name",
+                            "enabled": true,
+                            "items": []
+                        },
+                        {
+                            "id": 1013,
+                            "name": "Blueprint",
+                            "enabled": true,
+                            "items": []
+                        },
+                        {
+                            "id": 1014,
+                            "name": "Description",
+                            "enabled": true,
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "id": 102,
+                    "name": "Product Details",
+                    "enabled": true,
+                    "subcategory": [
+                        {
+                            "id": 1021,
+                            "name": "Name",
+                            "enabled": true,
+                            "items": []
+                        },
+                        {
+                            "id": 1022,
+                            "name": "Organization",
+                            "enabled": true,
+                            "items": []
+                        },
+                        {
+                            "id": 1023,
+                            "name": "Area",
+                            "enabled": true,
+                            "items": []
+                        },
+                        {
+                            "id": 1024,
+                            "name": "Product Owner",
+                            "enabled": true,
+                            "items": []
+                        },
+                        {
+                            "id": 1025,
+                            "name": "Creation Date",
+                            "enabled": true,
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Configure Team",
+            "enabled": true,
+            "category": [
+                {
+                    "id": 201,
+                    "name": "Team Details",
+                    "enabled": true,
+                    "subcategory": [
+                        {
+                            "id": 2011,
+                            "name": "Project Role",
+                            "enabled": true,
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Configure Code",
+            "enabled": true,
+            "category": [
+                {
+                    "id": 301,
+                    "name": "Configure Code",
+                    "enabled": true,
+                    "subcategory": [
+                        {
+                            "id": 3011,
+                            "name": "Technology",
+                            "enabled": true,
+                            "items": []
+                        },
+                        {
+                            "id": 3012,
+                            "name": "Repository",
+                            "enabled": true,
+                            "items": []
+                        },
+                        {
+                            "id": 3013,
+                            "name": "Codespaces",
+                            "enabled": true,
+                            "items": [
+                                {
+                                    "id": 1,
+                                    "name": "Devcontainers",
+                                    "enabled": true,
+                                    "subitems": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Configure ALM",
+            "enabled": true,
+            "category": [
+                {
+                    "id": 401,
+                    "name": "Configure ALM",
+                    "enabled": true,
+                    "subcategory": [
+                        {
+                            "id": 4011,
+                            "name": "Orchestrator",
+                            "enabled": true,
+                            "items": [
+                                {
+                                    "id": 1,
+                                    "name": "Tool",
+                                    "enabled": true,
+                                    "subitems": []
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Pipeline",
+                                    "enabled": true,
+                                    "subitems": []
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Git Branching",
+                                    "enabled": true,
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4012,
+                            "name": "Container Registry",
+                            "enabled": true,
+                            "items": [
+                                {
+                                    "id": 1,
+                                    "name": "Tool",
+                                    "enabled": true,
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4013,
+                            "name": "Static Code Analysis",
+                            "enabled": true,
+                            "items": [
+                                {
+                                    "id": 1,
+                                    "name": "Tool",
+                                    "enabled": true,
+                                    "subitems": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Configure IaC",
+            "enabled": true,
+            "category": [
+                {
+                    "id": 501,
+                    "name": "Configure IaC",
+                    "enabled": true,
+                    "subcategory": [
+                        {
+                            "id": 5011,
+                            "name": "Database",
+                            "enabled": true,
+                            "items": [
+                                {
+                                    "id": 1,
+                                    "name": "Type",
+                                    "enabled": true,
+                                    "subitems": []
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Tier",
+                                    "enabled": true,
+                                    "subitems": []
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Version",
+                                    "enabled": true,
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5012,
+                            "name": "Serverless",
+                            "enabled": true,
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Configure Collaboration",
+            "enabled": true,
+            "category": [
+                {
+                    "id": 601,
+                    "name": "Configure Collaboration",
+                    "enabled": true,
+                    "subcategory": [
+                        {
+                            "id": 6011,
+                            "name": "Connectivity Tools",
+                            "enabled": true,
+                            "items": [
+                                {
+                                    "id": 1,
+                                    "name": "Tool",
+                                    "enabled": true,
+                                    "subitems": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Configure Deployment",
+            "enabled": true,
+            "category": [
+                {
+                    "id": 701,
+                    "name": "Configure Deployment",
+                    "enabled": true,
+                    "subcategory": [
+                        {
+                            "id": 7011,
+                            "name": "Horizontal Pod Autoscaler",
+                            "enabled": true,
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Summary",
+            "enabled": true,
+            "category": [
+                {
+                    "id": 801,
+                    "name": "Summary",
+                    "enabled": true,
+                    "subcategory": []
+                }
+            ]
+        }
+    ],
+    "newProduct": [
+        {
+            "id": 1,
+            "name": "Configure Product",
+            "enabled": true,
+            "category": [
+                {
+                    "id": 101,
+                    "name": "Product Details",
+                    "enabled": true,
+                    "subcategory": [
+                        {
+                            "id": 1011,
+                            "name": "ID",
+                            "enabled": true,
+                            "items": []
+                        },
+                        {
+                            "id": 1012,
+                            "name": "Name",
+                            "enabled": true,
+                            "items": []
+                        },
+                        {
+                            "id": 1012,
+                            "name": "Description",
+                            "enabled": true,
+                            "items": []
+                        },
+                        {
+                            "id": 1013,
+                            "name": "Organization",
+                            "enabled": true,
+                            "items": []
+                        },
+                        {
+                            "id": 1014,
+                            "name": "Area",
+                            "enabled": true,
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Summary",
+            "enabled": true,
+            "category": [
+                {
+                    "id": 801,
+                    "name": "Summary",
+                    "enabled": true,
+                    "subcategory": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\CreateProjectData",
+    "\\src\\components\\CreateProjectItem",
+    "\\src\\components\\CreateProjectSummary",
+    "\\src\\components\\CreateProjectTeam",
+    "\\src\\components\\ProjectDetails",
+    "\\src\\components\\ProjectDetails\\GeneralDetails",
+    "\\src\\components\\ProjectDetails\\TeamDetails"
+  ],
+  "SelectedNode": "\\src\\services\\petStore\\base.ts",
+  "PreviewInSolutionExplorer": false
+}
